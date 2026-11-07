@@ -88,4 +88,24 @@ export class AppComponent {
   twenty: string = "Angular Concepts"
   angularConcepts: string[] = ['Component', 'Module', 'Service', 'Pipe', 'Directive'];
 
+  // List 21: Testing
+twentyOne: string = "Testing";
+testing: string[] = ['I like Jasmine', 'I like Karma', 'I like Jest'];
+
+// List 22: Tools
+twentyTwo: string = "Tools";
+tools: string[] = ['I like Git', 'I like GitHub', 'I like VS Code'];
+
+// List 23: Communication
+twentyThree: string = "Communication";
+communication: string[] = ['I like Slack', 'I like Microsoft Teams', 'I like Discord'];
+
+
+// List 24: Editors
+twentyFour: string = "Editors";
+editors: string[] = ['I like VS Code', 'I like WebStorm', 'I like Sublime Text'];
+
+// List 25: devOps
+twentyFive: string = "DevOps";
+devOps: string[] = ['I like Docker', 'I like Kubernetes', 'I like Jenkins'];
 }
